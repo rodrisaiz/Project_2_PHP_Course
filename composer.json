@@ -1,0 +1,16 @@
+{
+    "name": "rodri/project_2_php_course",
+    "authors": [
+        {
+            "name": "Rodri Saiz",
+            "email": "rodrisaiz@icloud.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/",
+            "Core\\": "core/"   
+        }
+    },
+    "require": {}
+}
